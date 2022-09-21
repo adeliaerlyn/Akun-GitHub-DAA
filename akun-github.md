@@ -11,6 +11,7 @@
 
 | Nama | Link Akun Github |
 | :-----------: | :----------:|
+| Adelia Erlyn N.C.P. | https://github.com/adeliaerlyn |
 | Delphia Aryana | https://github.com/DelphiaAryana |
 | Ady Mutalib | https://github.com/adymutalib |
 | M. Gymnastiar | https://github.com/Agim-dudu |
