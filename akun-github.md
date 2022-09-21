@@ -2,7 +2,7 @@
 
 <br>
 
-- **Mata Kuliah** Desain % Analisis Algoritma
+- **Mata Kuliah** Desain & Analisis Algoritma
 - **Dosen Pengampu** :
     - Dr. R. Ati Sukmawati, M.Kom
     - M. Hifdzi Adini, S. Kom., M.T.
