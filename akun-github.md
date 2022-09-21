@@ -1,4 +1,4 @@
-# Akun GitHub Mahasiswa Desain & Analisis Algoritma
+<h1 align="center"><b>Akun GitHub Mahasiswa Desain & Analisis Algoritma</b></h1>
 
 <br>
 
